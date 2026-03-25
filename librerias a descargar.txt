@@ -1,0 +1,5 @@
+para descargar todas las librerias recomeindo usar un entonrno virtual dentro de todo esto, para que funcione correctamente se deben de cambiar las apis de gemini y openai o chatgpt ademas de cambiar las direcicones de los archivos
+esta es una version precursora o la v1 ya que se estaran lanzando actualizaciones como con interfaz, es necesario instalar todas las librerias con el siguiente comando directo en la terminal 
+pip install pyttsx3 SpeechRecognition pyaudio pyautogui google-generativeai openai opencv-python psutil requests wikipedia tinytuya pyperclip numpy pillow
+si falla pyaudio pip install pipwin && pipwin install pyaudio
+recomiendo usar la version de 3.10.11 de python y un entorno virtual donde se descarguen las librerias
